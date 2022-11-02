@@ -1,0 +1,17 @@
+.navigationbar{
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    letter-spacing: 2px;
+    font-weight: 700;
+    font-size: x-large;
+   
+
+}
+.hello{
+    text-decoration: none;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   
+}

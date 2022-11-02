@@ -1,0 +1,39 @@
+.stdheader{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    margin: 20px;
+}
+.stdheader button{
+    height: 35px;
+    border-radius: 20px;
+    width: 150px;
+    position: relative;
+    top: 30px;
+    cursor: pointer;
+    font-weight: 600;
+}
+.stddetails{
+    background-color: white;
+    display: grid;
+    grid-template-columns: auto;
+}
+.stdDescHeader{
+    display: grid;
+    grid-template-columns: 35% 10% auto auto 5%;
+    padding-left: 10px;
+    
+}
+.editbtn{
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.line{
+    height: 0.05px;
+    background-color: black;
+    width: 100%;
+}
+.outer{
+    margin: 50px;
+}
